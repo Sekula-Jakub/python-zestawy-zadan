@@ -1,0 +1,1 @@
+## Zestawy zadań z ćwiczeń z języka Python 2026/2027
