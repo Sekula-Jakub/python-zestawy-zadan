@@ -3,6 +3,7 @@
 
 def zamien_gvr(line):
     line = line.replace("GvR", "Guido van Rossum")
+    print(line)
     return line
 
 line1 = "Nie taki diabeł GvR straszny\njak go malują."

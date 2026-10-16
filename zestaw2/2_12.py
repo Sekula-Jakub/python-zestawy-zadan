@@ -5,14 +5,14 @@ def first_letters(line):
     result = ""
     for item in line.split():
         result += item[0]
-    print("Pierwsze litery: ", line, result)
+    print("Pierwsze litery: ", line, ":", result)
     return result
 
 def last_letters(line):
     result = ""
     for item in line.split():
         result += item[-1]
-    print("Ostatnie litery: ", line, result)
+    print("Ostatnie litery: ", line, ":", result)
     return result
 
 line1 = "Nie taki diabel straszny jak go maluja"

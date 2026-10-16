@@ -1,11 +1,11 @@
 # Znaleźć łączną długość wyrazów w stringu line. Wskazówka: można skorzystać z funkcji sum().
 
 def dlugosc_wyrazow(line):
-    line = line.split()
+    line_splitted = line.split()
     length = 0
-    for word in line:
+    for word in line_splitted:
         length += len(word)
-    print("Dlugosc napisu ", line, length)
+    print("Dlugosc napisu ", line, ":", length)
     return length
 
 line1 = "Nie taki diabel straszny jak go maluja"

@@ -4,7 +4,7 @@
 
 def ile_wyrazow(line):
     ilosc_wyrazow = len(line.split())
-    print("Ilosc wyrazow w stringu ", line, "=", ilosc_wyrazow)
+    print("Ilosc wyrazow w stringu ", line, ":", ilosc_wyrazow)
     return ilosc_wyrazow
 
 line1 = "Nie taki diabeł straszny\njak go malują."
