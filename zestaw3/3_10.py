@@ -20,4 +20,6 @@ def roman2int(string):
 
     return wynik
 
-print(roman2int("MCMXCIV"))
+print(roman2int("XL"))
+print(roman2int("MCMXXXIX"))
+print(roman2int("MCMXI"))
