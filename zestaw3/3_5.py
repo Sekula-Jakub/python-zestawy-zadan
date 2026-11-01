@@ -4,9 +4,9 @@
 
 miarka = []
 liczby = []
-x = 12
+x = 6
 liczba_cyfr = len(str(x))
-ile_kropek = liczba_cyfr + 2
+ile_kropek = 4
 
 miarka.append("|")
 liczby.append("0")

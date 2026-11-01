@@ -1,8 +1,8 @@
 # Napisać program rysujący prostokąt zbudowany z małych kratek. Należy zbudować pełny string, a potem go wypisać.
 # Liczby kratek w wierszach (y) i kolumnach (x) mają być zapisane w osobnych zmiennych jako parametry programu.
 
-x = 2
-y = 2
+x = 5
+y = 5
 
 string = []
 
